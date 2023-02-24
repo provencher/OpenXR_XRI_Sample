@@ -1,0 +1,22 @@
+{
+    "name": "Unity.XR.Interaction.Toolkit.Samples.Hands",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ce522b6ed64c8be4c989a1d26d0e3275"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.hands",
+            "expression": "1.1.0-pre.3",
+            "define": "XR_HANDS"
+        }
+    ],
+    "noEngineReferences": false
+}

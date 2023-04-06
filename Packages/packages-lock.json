@@ -10,7 +10,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "2.0.0",
+      "version": "2.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -169,7 +169,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.hands": {
-      "version": "1.1.0-pre.3",
+      "version": "1.1.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -181,7 +181,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.interaction.toolkit": {
-      "version": "2.3.0",
+      "version": "2.3.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -219,7 +219,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.oculus": {
-      "version": "3.2.2",
+      "version": "3.2.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -228,7 +228,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.openxr": {
-      "version": "1.6.0",
+      "version": "1.7.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {

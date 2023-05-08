@@ -31,7 +31,7 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
         [SerializeField]
         [Range(0f, 20f)]
         [Tooltip("Multiplies transform position interpolation as a factor of Time.deltaTime. If 0, no smoothing will be applied.")]
-        float m_SmoothingSpeed = 8f;
+        float m_SmoothingSpeed = 16f;
 
         /// <summary>
         /// Multiplies transform position interpolation as a factor of <see cref="Time.deltaTime"/>. If <c>0</c>, no smoothing will be applied.

@@ -134,11 +134,8 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 0.1.0
-  preloadedAssets:
-  - {fileID: 11400000, guid: 49269bc598337c949b6f36c82346bc84, type: 2}
-  - {fileID: 2626512024163259480, guid: d2655dc5da3498948b3adac193cd4434, type: 2}
-  - {fileID: 4583891549446831725, guid: 8f5dc2324704a7e48b9fa73af1755bda, type: 2}
+  bundleVersion: 2.3.2
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -242,7 +239,7 @@ PlayerSettings:
   clonedFromGUID: 3c72c65a16f0acb438eed22b8b16c24a
   templatePackageId: com.unity.template.urp-blank@2.0.3
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0

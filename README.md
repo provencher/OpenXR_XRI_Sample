@@ -5,10 +5,10 @@ To try out this project with hand interaction please refer to the Hands Sample s
 See this folder "OpenXR_XRI_Sample\Assets\Samples\XR Interaction Toolkit\2.3.1\Hands Interaction Demo\Runtime"
 
 ## Project Setup
-- Unity 2021.3.22f1
-- OpenXR 1.7.0
-- [Unity Hands 1.1.0](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.1/manual/index.html)
-- [XR Interaction Toolkit 2.3.1](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.3/manual/whats-new-2.3.0.html)
+- Unity 2022.3.4f1
+- [OpenXR 1.8.1](https://docs.unity3d.com/Packages/com.unity.xr.openxr@1.8/manual/index.html)
+- [Unity Hands 1.2.1](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.2/manual/index.html)
+- [XR Interaction Toolkit 2.4.0](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.4/manual/index.html)
 
 
 ## Troubleshooting

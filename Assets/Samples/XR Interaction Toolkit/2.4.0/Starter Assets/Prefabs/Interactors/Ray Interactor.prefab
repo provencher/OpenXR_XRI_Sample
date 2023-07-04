@@ -33,7 +33,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7462879561657043759
 MonoBehaviour:
@@ -289,7 +289,7 @@ MonoBehaviour:
   m_OverrideInteractorLineLength: 1
   m_LineLength: 10
   m_AutoAdjustLineLength: 1
-  m_MinLineLength: 0.005
+  m_MinLineLength: 0.03
   m_UseDistanceToHitAsMaxLineLength: 1
   m_LineRetractionDelay: 0.5
   m_LineLengthChangeSpeed: 12

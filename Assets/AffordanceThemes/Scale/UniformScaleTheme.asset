@@ -61,3 +61,6 @@ MonoBehaviour:
     - stateName: activated
       animationStateStartValue: 1
       animationStateEndValue: 1
+    - stateName: focused
+      animationStateStartValue: 1
+      animationStateEndValue: 1

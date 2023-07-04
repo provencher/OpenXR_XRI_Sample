@@ -61,5 +61,8 @@ MonoBehaviour:
     - stateName: activated
       animationStateStartValue: {r: 0, g: 0, b: 0, a: 0}
       animationStateEndValue: {r: 0, g: 0, b: 0, a: 0}
+    - stateName: focused
+      animationStateStartValue: {r: 0, g: 0, b: 0, a: 0}
+      animationStateEndValue: {r: 0, g: 0, b: 0, a: 0}
     m_ColorBlendMode: 1
     m_BlendAmount: 0.5
